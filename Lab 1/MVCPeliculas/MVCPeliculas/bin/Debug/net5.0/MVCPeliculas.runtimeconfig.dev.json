@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\adona\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\adona\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Bienvenido";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Bienvenido </h1>
+<ul>
+    @{
+        int numVeces = (int)ViewData["numVeces"];
+        for (int i = 0; i < numVeces; i++)
+        {
+            <li>@ViewData["nombres"], veces mostrado =  @(i+1)</li>
+        }
+    }
+</ul>
+
