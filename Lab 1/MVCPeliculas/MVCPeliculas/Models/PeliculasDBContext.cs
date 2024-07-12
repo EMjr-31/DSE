@@ -8,9 +8,21 @@ namespace MVCPeliculas.Models
 {
     public class PeliculasDBContext : DbContext
     {
-        public PeliculasDBContext(DbContextOptions options) : base(options)
+        public PeliculasDBContext(DbContextOptions<PeliculasDBContext> options) : base(options)
         {
         }
+
         public DbSet<Peliculas> Peliculas { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<Peliculas>(entity =>
+            {
+                entity.Property(e => e.Precio)
+                      .HasColumnType("decimal(18, 2)"); // or use .HasPrecision(18, 2) if using EF Core 5.0 or later
+            });
+        }
     }
 }

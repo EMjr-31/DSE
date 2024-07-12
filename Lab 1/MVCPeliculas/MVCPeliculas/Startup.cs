@@ -8,6 +8,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using MVCPeliculas.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace MVCPeliculas
 {
@@ -24,6 +26,8 @@ namespace MVCPeliculas
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            services.AddDbContext<PeliculasDBContext>(options =>options.UseSqlServer(Configuration.GetConnectionString("PeliculasCN")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
