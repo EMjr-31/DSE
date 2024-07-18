@@ -5,7 +5,6 @@ D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\bin\
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\bin\Debug\net5.0\MVCPeliculas.runtimeconfig.json
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\bin\Debug\net5.0\MVCPeliculas.runtimeconfig.dev.json
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\bin\Debug\net5.0\MVCPeliculas.dll
-D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\bin\Debug\net5.0\ref\MVCPeliculas.dll
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\bin\Debug\net5.0\MVCPeliculas.pdb
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\bin\Debug\net5.0\MVCPeliculas.Views.dll
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\bin\Debug\net5.0\MVCPeliculas.Views.pdb
@@ -18,7 +17,6 @@ D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\MVCPeliculas.RazorAssemblyInfo.cache
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\MVCPeliculas.RazorAssemblyInfo.cs
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\staticwebassets\MVCPeliculas.StaticWebAssets.Manifest.cache
-D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\staticwebassets\MVCPeliculas.StaticWebAssets.xml
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\scopedcss\bundle\MVCPeliculas.styles.css
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\MVCPeliculas.TagHelpers.input.cache
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\MVCPeliculas.TagHelpers.output.cache
@@ -37,7 +35,6 @@ D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\ref\MVCPeliculas.dll
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\MVCPeliculas.pdb
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\MVCPeliculas.genruntimeconfig.cache
-D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\MVCPeliculas.csproj.CopyComplete
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\bin\Debug\net5.0\Humanizer.dll
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -146,3 +143,11 @@ D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\bin\
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\bin\Debug\net5.0\ref\MVCPeliculas.dll
+D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\staticwebassets\MVCPeliculas.StaticWebAssets.xml
+D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\MVCPeliculas.csproj.CopyComplete
+D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\Razor\Views\Peliculas\Create.cshtml.g.cs
+D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\Razor\Views\Peliculas\Delete.cshtml.g.cs
+D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\Razor\Views\Peliculas\Details.cshtml.g.cs
+D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\Razor\Views\Peliculas\Edit.cshtml.g.cs
+D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\Razor\Views\Peliculas\Index.cshtml.g.cs

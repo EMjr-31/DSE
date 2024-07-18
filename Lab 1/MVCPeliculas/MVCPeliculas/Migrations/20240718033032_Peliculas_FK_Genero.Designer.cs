@@ -4,14 +4,16 @@ using MVCPeliculas.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace MVCPeliculas.Migrations
 {
     [DbContext(typeof(PeliculasDBContext))]
-    partial class PeliculasDBContextModelSnapshot : ModelSnapshot
+    [Migration("20240718033032_Peliculas_FK_Genero")]
+    partial class Peliculas_FK_Genero
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

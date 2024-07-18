@@ -13,6 +13,7 @@ namespace MVCPeliculas.Models
         }
 
         public DbSet<Peliculas> Peliculas { get; set; }
+        public DbSet<Genero> Generos { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
