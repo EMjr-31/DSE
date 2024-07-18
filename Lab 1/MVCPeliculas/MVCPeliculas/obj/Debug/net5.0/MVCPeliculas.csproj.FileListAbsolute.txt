@@ -151,3 +151,8 @@ D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\Razor\Views\Peliculas\Details.cshtml.g.cs
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\Razor\Views\Peliculas\Edit.cshtml.g.cs
 D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\Razor\Views\Peliculas\Index.cshtml.g.cs
+D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\Razor\Views\Generoes\Create.cshtml.g.cs
+D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\Razor\Views\Generoes\Delete.cshtml.g.cs
+D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\Razor\Views\Generoes\Details.cshtml.g.cs
+D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\Razor\Views\Generoes\Edit.cshtml.g.cs
+D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\obj\Debug\net5.0\Razor\Views\Generoes\Index.cshtml.g.cs

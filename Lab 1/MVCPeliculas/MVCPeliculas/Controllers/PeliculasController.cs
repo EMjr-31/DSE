@@ -45,15 +45,14 @@ namespace MVCPeliculas.Controllers
         // GET: Peliculas/Create
         public IActionResult Create()
         {
+            ViewBag.Genero = new SelectList(_context.Generos, "ID", "Nombre");
             return View();
         }
 
         // POST: Peliculas/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ID,Titulo,FechaLanzmiento,GeneroId,Genero,Precio,Director")] Peliculas peliculas)
+        public async Task<IActionResult> Create([Bind("ID,Titulo,FechaLanzmiento,GeneroId,Precio,Director")] Peliculas peliculas)
         {
             if (ModelState.IsValid)
             {
@@ -61,8 +60,11 @@ namespace MVCPeliculas.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+            ViewBag.Genero = new SelectList(_context.Generos, "ID", "Nombre", peliculas.GeneroId);
             return View(peliculas);
         }
+
+
 
         // GET: Peliculas/Edit/5
         public async Task<IActionResult> Edit(int? id)
@@ -77,15 +79,14 @@ namespace MVCPeliculas.Controllers
             {
                 return NotFound();
             }
+            ViewData["GeneroId"] = new SelectList(_context.Generos, "ID", "Nombre", peliculas.GeneroId);
             return View(peliculas);
         }
 
         // POST: Peliculas/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("ID,Titulo,FechaLanzmiento,GeneroId,Genero,Precio,Director")] Peliculas peliculas)
+        public async Task<IActionResult> Edit(int id, [Bind("ID,Titulo,FechaLanzmiento,GeneroId,Precio,Director")] Peliculas peliculas)
         {
             if (id != peliculas.ID)
             {
@@ -112,41 +113,14 @@ namespace MVCPeliculas.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
+            ViewData["GeneroId"] = new SelectList(_context.Generos, "ID", "Nombre", peliculas.GeneroId);
             return View(peliculas);
+
         }
-
-        // GET: Peliculas/Delete/5
-        public async Task<IActionResult> Delete(int? id)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var peliculas = await _context.Peliculas
-                .FirstOrDefaultAsync(m => m.ID == id);
-            if (peliculas == null)
-            {
-                return NotFound();
-            }
-
-            return View(peliculas);
-        }
-
-        // POST: Peliculas/Delete/5
-        [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
-        {
-            var peliculas = await _context.Peliculas.FindAsync(id);
-            _context.Peliculas.Remove(peliculas);
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
-        }
-
         private bool PeliculasExists(int id)
         {
             return _context.Peliculas.Any(e => e.ID == id);
         }
+
     }
 }
