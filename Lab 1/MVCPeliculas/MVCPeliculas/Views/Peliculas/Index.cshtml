@@ -8,8 +8,16 @@
 <h1>Index</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create">Agregar</a>
 </p>
+<form asp-controller="Peliculas" asp-action="Index">
+    <p>
+        Titulo:<input type="text" name="textoABuscar" class="form-control">
+        <input type="submit" value="Filtrar" class="btn btn-info">
+    </p>
+</form>
+
+
 <table class="table">
     <thead>
         <tr>
@@ -41,7 +49,7 @@
                 @Html.DisplayFor(modelItem => item.FechaLanzmiento)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Genero)
+                @Html.DisplayFor(modelItem => item.Genero.Nombre)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Precio)
@@ -50,9 +58,9 @@
                 @Html.DisplayFor(modelItem => item.Director)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.ID">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.ID">Detalles</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">Eliminar</a>
             </td>
         </tr>
 }

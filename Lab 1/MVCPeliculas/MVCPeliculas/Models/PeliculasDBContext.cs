@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using MVCPeliculas.Models.Seeds;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,7 +19,8 @@ namespace MVCPeliculas.Models
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-
+            modelBuilder.ApplyConfiguration(new GeneroSeed());
+            modelBuilder.ApplyConfiguration(new PeliculaSeed());
             modelBuilder.Entity<Peliculas>(entity =>
             {
                 entity.Property(e => e.Precio)

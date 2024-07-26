@@ -6,6 +6,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MVCPeliculas.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using MVCPeliculas.Models;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace MVCPeliculas.Controllers
 {
@@ -19,10 +24,23 @@ namespace MVCPeliculas.Controllers
         }
 
         // GET: Peliculas
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string textoABuscar)
         {
-            return View(await _context.Peliculas.ToListAsync());
+            if (_context.Peliculas == null) {
+                return Problem("No se ha iniciado el contexto");
+            }
+            var peliculas = from p in _context.Peliculas select p;
+            if (!String.IsNullOrEmpty(textoABuscar)) {
+                peliculas = peliculas.Where(p => p.Titulo.Contains(textoABuscar));
+            }
+            return View(await peliculas.ToListAsync());
         }
+        [HttpGet]
+        public string Index(String textoABuscar, bool notUsed)
+        {
+            return "From [HttpPost]Index: filtro on " + textoABuscar;
+        }
+
 
         // GET: Peliculas/Details/5
         public async Task<IActionResult> Details(int? id)
@@ -32,40 +50,40 @@ namespace MVCPeliculas.Controllers
                 return NotFound();
             }
 
-            var peliculas = await _context.Peliculas
+            var pelicula = await _context.Peliculas
+                .Include(p => p.Genero)
                 .FirstOrDefaultAsync(m => m.ID == id);
-            if (peliculas == null)
+
+            if (pelicula == null)
             {
                 return NotFound();
             }
 
-            return View(peliculas);
+            return View(pelicula);
         }
 
         // GET: Peliculas/Create
         public IActionResult Create()
         {
-            ViewBag.Genero = new SelectList(_context.Generos, "ID", "Nombre");
+            ViewData["GeneroId"] = new SelectList(_context.Generos, "Id", "Nombre");
             return View();
         }
 
         // POST: Peliculas/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ID,Titulo,FechaLanzmiento,GeneroId,Precio,Director")] Peliculas peliculas)
+        public async Task<IActionResult> Create([Bind("ID,Titulo,FechaLanzmiento,GeneroId,Precio,Director")] Peliculas pelicula)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(peliculas);
+                _context.Add(pelicula);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewBag.Genero = new SelectList(_context.Generos, "ID", "Nombre", peliculas.GeneroId);
-            return View(peliculas);
+            ViewData["GeneroId"] = new SelectList(_context.Generos, "Id", "Nombre", pelicula.GeneroId);
+            return View(pelicula);
         }
-
-
-
+   
         // GET: Peliculas/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
@@ -74,21 +92,21 @@ namespace MVCPeliculas.Controllers
                 return NotFound();
             }
 
-            var peliculas = await _context.Peliculas.FindAsync(id);
-            if (peliculas == null)
+            var pelicula = await _context.Peliculas.FindAsync(id);
+            if (pelicula == null)
             {
                 return NotFound();
             }
-            ViewData["GeneroId"] = new SelectList(_context.Generos, "ID", "Nombre", peliculas.GeneroId);
-            return View(peliculas);
+            ViewData["GeneroId"] = new SelectList(_context.Generos, "Id", "Nombre", pelicula.GeneroId);
+            return View(pelicula);
         }
 
         // POST: Peliculas/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("ID,Titulo,FechaLanzmiento,GeneroId,Precio,Director")] Peliculas peliculas)
+        public async Task<IActionResult> Edit(int id, [Bind("ID,Titulo,FechaLanzmiento,GeneroId,Precio,Director")] Peliculas pelicula)
         {
-            if (id != peliculas.ID)
+            if (id != pelicula.ID)
             {
                 return NotFound();
             }
@@ -97,12 +115,12 @@ namespace MVCPeliculas.Controllers
             {
                 try
                 {
-                    _context.Update(peliculas);
+                    _context.Update(pelicula);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!PeliculasExists(peliculas.ID))
+                    if (!PeliculasExists(pelicula.ID))
                     {
                         return NotFound();
                     }
@@ -113,14 +131,44 @@ namespace MVCPeliculas.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["GeneroId"] = new SelectList(_context.Generos, "ID", "Nombre", peliculas.GeneroId);
-            return View(peliculas);
-
+            ViewData["GeneroId"] = new SelectList(_context.Generos, "Id", "Nombre", pelicula.GeneroId);
+            return View(pelicula);
         }
+
+        // GET: Peliculas/Delete/5
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var pelicula = await _context.Peliculas
+                .Include(p => p.Genero)
+                .FirstOrDefaultAsync(m => m.ID == id);
+
+            if (pelicula == null)
+            {
+                return NotFound();
+            }
+
+            return View(pelicula);
+        }
+
+        // POST: Peliculas/Delete/5
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteConfirmed(int id)
+        {
+            var pelicula = await _context.Peliculas.FindAsync(id);
+            _context.Peliculas.Remove(pelicula);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+        }
+
         private bool PeliculasExists(int id)
         {
             return _context.Peliculas.Any(e => e.ID == id);
         }
-
     }
 }
