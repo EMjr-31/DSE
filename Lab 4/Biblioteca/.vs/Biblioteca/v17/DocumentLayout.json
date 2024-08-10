@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 4\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE0305E-C059-4276-88D9-06246749612E}|Biblioteca\\Biblioteca.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 4\\biblioteca\\biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBE0305E-C059-4276-88D9-06246749612E}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE0305E-C059-4276-88D9-06246749612E}|Biblioteca\\Biblioteca.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 4\\biblioteca\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE0305E-C059-4276-88D9-06246749612E}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3F2D09-0FA0-46D8-A5F2-E6867FD97974}|Biblioteca.Common\\Biblioteca.Common.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 4\\biblioteca\\biblioteca.common\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3F2D09-0FA0-46D8-A5F2-E6867FD97974}|Biblioteca.Common\\Biblioteca.Common.csproj|solutionrelative:biblioteca.common\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4825FDEE-9675-4DFD-AFBA-047B2C529A30}|BIblioteca.BL\\BIblioteca.BL.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 4\\biblioteca\\biblioteca.bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4825FDEE-9675-4DFD-AFBA-047B2C529A30}|BIblioteca.BL\\BIblioteca.BL.csproj|solutionrelative:biblioteca.bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3F2D09-0FA0-46D8-A5F2-E6867FD97974}|Biblioteca.Common\\Biblioteca.Common.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 4\\biblioteca\\biblioteca.common\\biblioteca.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C3F2D09-0FA0-46D8-A5F2-E6867FD97974}|Biblioteca.Common\\Biblioteca.Common.csproj|solutionrelative:biblioteca.common\\biblioteca.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE06761-043A-4424-BD85-9C0EB1BC175E}|Biblioteca.Entities\\Biblioteca.Entities.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 4\\biblioteca\\biblioteca.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE06761-043A-4424-BD85-9C0EB1BC175E}|Biblioteca.Entities\\Biblioteca.Entities.csproj|solutionrelative:biblioteca.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B593FEF1-C046-4446-9FB3-D483CD3CD0AC}|Biblioteca.DAL\\Biblioteca.DAL.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 4\\biblioteca\\biblioteca.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B593FEF1-C046-4446-9FB3-D483CD3CD0AC}|Biblioteca.DAL\\Biblioteca.DAL.csproj|solutionrelative:biblioteca.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE0305E-C059-4276-88D9-06246749612E}|Biblioteca\\Biblioteca.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 4\\biblioteca\\biblioteca\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE0305E-C059-4276-88D9-06246749612E}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 4\\Biblioteca\\Biblioteca\\appsettings.json",
+              "RelativeDocumentMoniker": "Biblioteca\\appsettings.json",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 4\\Biblioteca\\Biblioteca\\appsettings.json",
+              "RelativeToolTip": "Biblioteca\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T04:29:32.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Biblioteca.Common",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 4\\Biblioteca\\Biblioteca.Common\\Biblioteca.Common.csproj",
+              "RelativeDocumentMoniker": "Biblioteca.Common\\Biblioteca.Common.csproj",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 4\\Biblioteca\\Biblioteca.Common\\Biblioteca.Common.csproj",
+              "RelativeToolTip": "Biblioteca.Common\\Biblioteca.Common.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-28T04:24:14.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 4\\Biblioteca\\Biblioteca.Entities\\Class1.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Entities\\Class1.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 4\\Biblioteca\\Biblioteca.Entities\\Class1.cs",
+              "RelativeToolTip": "Biblioteca.Entities\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T04:23:48.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 4\\Biblioteca\\Biblioteca.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "Biblioteca.DAL\\Class1.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 4\\Biblioteca\\Biblioteca.DAL\\Class1.cs",
+              "RelativeToolTip": "Biblioteca.DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T04:23:08.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 4\\Biblioteca\\Biblioteca.Common\\AppSettings.cs",
+              "RelativeDocumentMoniker": "Biblioteca.Common\\AppSettings.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 4\\Biblioteca\\Biblioteca.Common\\AppSettings.cs",
+              "RelativeToolTip": "Biblioteca.Common\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T04:22:43.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 4\\Biblioteca\\BIblioteca.BL\\Class1.cs",
+              "RelativeDocumentMoniker": "BIblioteca.BL\\Class1.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 4\\Biblioteca\\BIblioteca.BL\\Class1.cs",
+              "RelativeToolTip": "BIblioteca.BL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T04:22:06.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 4\\Biblioteca\\Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Program.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 4\\Biblioteca\\Biblioteca\\Program.cs",
+              "RelativeToolTip": "Biblioteca\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T04:20:53.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 4\\Biblioteca\\Biblioteca\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 4\\Biblioteca\\Biblioteca\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Biblioteca\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T12:53:12.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

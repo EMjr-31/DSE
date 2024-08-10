@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|c:\\users\\adona\\source\\repos\\desafio1_mvc\\desafio1_mvc\\controllers\\empleadoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|solutionrelative:desafio1_mvc\\controllers\\empleadoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|c:\\users\\adona\\source\\repos\\desafio1_mvc\\desafio1_mvc\\views\\empleadoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|solutionrelative:desafio1_mvc\\views\\empleadoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|c:\\users\\adona\\source\\repos\\desafio1_mvc\\desafio1_mvc\\views\\empleadoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|solutionrelative:desafio1_mvc\\views\\empleadoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|c:\\users\\adona\\source\\repos\\desafio1_mvc\\desafio1_mvc\\views\\empleadoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|solutionrelative:desafio1_mvc\\views\\empleadoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|c:\\users\\adona\\source\\repos\\desafio1_mvc\\desafio1_mvc\\views\\empleadoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|solutionrelative:desafio1_mvc\\views\\empleadoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|c:\\users\\adona\\source\\repos\\desafio1_mvc\\desafio1_mvc\\views\\empleadoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|solutionrelative:desafio1_mvc\\views\\empleadoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|c:\\users\\adona\\source\\repos\\desafio1_mvc\\desafio1_mvc\\controllers\\departamentoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|solutionrelative:desafio1_mvc\\controllers\\departamentoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Migrations\\20240810043630_Migracion3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DESAFIO1_MVC\\Migrations\\20240810043630_Migracion3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|c:\\users\\adona\\source\\repos\\desafio1_mvc\\desafio1_mvc\\models\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|solutionrelative:desafio1_mvc\\models\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|c:\\users\\adona\\source\\repos\\desafio1_mvc\\desafio1_mvc\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|solutionrelative:desafio1_mvc\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Migrations\\20240810040839_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DESAFIO1_MVC\\Migrations\\20240810040839_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Migrations\\20240810041154_Migracion2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DESAFIO1_MVC\\Migrations\\20240810041154_Migracion2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|c:\\users\\adona\\source\\repos\\desafio1_mvc\\desafio1_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|solutionrelative:desafio1_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|c:\\users\\adona\\source\\repos\\desafio1_mvc\\desafio1_mvc\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|solutionrelative:desafio1_mvc\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|c:\\users\\adona\\source\\repos\\desafio1_mvc\\desafio1_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|solutionrelative:desafio1_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|c:\\users\\adona\\source\\repos\\desafio1_mvc\\desafio1_mvc\\desafio1_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D394A72-CEC8-45A0-8CFD-38F9B6ED94FC}|DESAFIO1_MVC\\DESAFIO1_MVC.csproj|solutionrelative:desafio1_mvc\\desafio1_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Views\\Empleadoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "DESAFIO1_MVC\\Views\\Empleadoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Views\\Empleadoes\\Index.cshtml",
+              "RelativeToolTip": "DESAFIO1_MVC\\Views\\Empleadoes\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T04:41:46.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Views\\Empleadoes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DESAFIO1_MVC\\Views\\Empleadoes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Views\\Empleadoes\\Edit.cshtml",
+              "RelativeToolTip": "DESAFIO1_MVC\\Views\\Empleadoes\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T04:41:38.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240810043630_Migracion3.cs",
+              "DocumentMoniker": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Migrations\\20240810043630_Migracion3.cs",
+              "RelativeDocumentMoniker": "DESAFIO1_MVC\\Migrations\\20240810043630_Migracion3.cs",
+              "ToolTip": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Migrations\\20240810043630_Migracion3.cs",
+              "RelativeToolTip": "DESAFIO1_MVC\\Migrations\\20240810043630_Migracion3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T04:36:31.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Views\\Empleadoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "DESAFIO1_MVC\\Views\\Empleadoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Views\\Empleadoes\\Create.cshtml",
+              "RelativeToolTip": "DESAFIO1_MVC\\Views\\Empleadoes\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T04:24:47.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartamentoesController.cs",
+              "DocumentMoniker": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Controllers\\DepartamentoesController.cs",
+              "RelativeDocumentMoniker": "DESAFIO1_MVC\\Controllers\\DepartamentoesController.cs",
+              "ToolTip": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Controllers\\DepartamentoesController.cs",
+              "RelativeToolTip": "DESAFIO1_MVC\\Controllers\\DepartamentoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T04:19:23.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoesController.cs",
+              "DocumentMoniker": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Controllers\\EmpleadoesController.cs",
+              "RelativeDocumentMoniker": "DESAFIO1_MVC\\Controllers\\EmpleadoesController.cs",
+              "ToolTip": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Controllers\\EmpleadoesController.cs",
+              "RelativeToolTip": "DESAFIO1_MVC\\Controllers\\EmpleadoesController.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAuwIQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T04:20:22.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Views\\Empleadoes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DESAFIO1_MVC\\Views\\Empleadoes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Views\\Empleadoes\\Delete.cshtml",
+              "RelativeToolTip": "DESAFIO1_MVC\\Views\\Empleadoes\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T04:40:46.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Views\\Empleadoes\\Details.cshtml",
+              "RelativeDocumentMoniker": "DESAFIO1_MVC\\Views\\Empleadoes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Views\\Empleadoes\\Details.cshtml",
+              "RelativeToolTip": "DESAFIO1_MVC\\Views\\Empleadoes\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T04:41:28.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240810040839_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Migrations\\20240810040839_Inicial.cs",
+              "RelativeDocumentMoniker": "DESAFIO1_MVC\\Migrations\\20240810040839_Inicial.cs",
+              "ToolTip": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Migrations\\20240810040839_Inicial.cs",
+              "RelativeToolTip": "DESAFIO1_MVC\\Migrations\\20240810040839_Inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T04:08:39.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240810041154_Migracion2.cs",
+              "DocumentMoniker": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Migrations\\20240810041154_Migracion2.cs",
+              "RelativeDocumentMoniker": "DESAFIO1_MVC\\Migrations\\20240810041154_Migracion2.cs",
+              "ToolTip": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Migrations\\20240810041154_Migracion2.cs",
+              "RelativeToolTip": "DESAFIO1_MVC\\Migrations\\20240810041154_Migracion2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T04:11:54.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Models\\ApplicationDbContext .cs",
+              "RelativeDocumentMoniker": "DESAFIO1_MVC\\Models\\ApplicationDbContext .cs",
+              "ToolTip": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Models\\ApplicationDbContext .cs",
+              "RelativeToolTip": "DESAFIO1_MVC\\Models\\ApplicationDbContext .cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA6wCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T03:57:57.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "DESAFIO1_MVC\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Models\\Empleado.cs",
+              "RelativeToolTip": "DESAFIO1_MVC\\Models\\Empleado.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T03:39:22.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "DESAFIO1_MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Program.cs",
+              "RelativeToolTip": "DESAFIO1_MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T03:55:35.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "DESAFIO1_MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\appsettings.json",
+              "RelativeToolTip": "DESAFIO1_MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T03:53:17.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DESAFIO1_MVC",
+              "DocumentMoniker": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\DESAFIO1_MVC.csproj",
+              "RelativeDocumentMoniker": "DESAFIO1_MVC\\DESAFIO1_MVC.csproj",
+              "ToolTip": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\DESAFIO1_MVC.csproj",
+              "RelativeToolTip": "DESAFIO1_MVC\\DESAFIO1_MVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-10T03:44:16.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "DESAFIO1_MVC\\Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\adona\\source\\repos\\DESAFIO1_MVC\\DESAFIO1_MVC\\Models\\Departamento.cs",
+              "RelativeToolTip": "DESAFIO1_MVC\\Models\\Departamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T03:38:49.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
