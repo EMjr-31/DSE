@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="MVCPeliculas20240821215755" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\UNIVERSIDAD\\Ciclos\\Ciclo\ 02-2024\\DSE\\Lab\\Lab\ 1\\MVCPeliculas\\MVCPeliculas\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

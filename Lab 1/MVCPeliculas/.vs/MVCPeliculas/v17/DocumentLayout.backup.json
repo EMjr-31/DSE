@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 1\\MVCPeliculas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B03FA56-C277-44FC-A6BB-AC66086DD9E1}|MVCPeliculas\\MVCPeliculas.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 1\\mvcpeliculas\\mvcpeliculas\\views\\peliculas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B03FA56-C277-44FC-A6BB-AC66086DD9E1}|MVCPeliculas\\MVCPeliculas.csproj|solutionrelative:mvcpeliculas\\views\\peliculas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B03FA56-C277-44FC-A6BB-AC66086DD9E1}|MVCPeliculas\\MVCPeliculas.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 1\\mvcpeliculas\\mvcpeliculas\\views\\peliculas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B03FA56-C277-44FC-A6BB-AC66086DD9E1}|MVCPeliculas\\MVCPeliculas.csproj|solutionrelative:mvcpeliculas\\views\\peliculas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B03FA56-C277-44FC-A6BB-AC66086DD9E1}|MVCPeliculas\\MVCPeliculas.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 1\\mvcpeliculas\\mvcpeliculas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B03FA56-C277-44FC-A6BB-AC66086DD9E1}|MVCPeliculas\\MVCPeliculas.csproj|solutionrelative:mvcpeliculas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B03FA56-C277-44FC-A6BB-AC66086DD9E1}|MVCPeliculas\\MVCPeliculas.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 1\\mvcpeliculas\\mvcpeliculas\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B03FA56-C277-44FC-A6BB-AC66086DD9E1}|MVCPeliculas\\MVCPeliculas.csproj|solutionrelative:mvcpeliculas\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B03FA56-C277-44FC-A6BB-AC66086DD9E1}|MVCPeliculas\\MVCPeliculas.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 1\\mvcpeliculas\\mvcpeliculas\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B03FA56-C277-44FC-A6BB-AC66086DD9E1}|MVCPeliculas\\MVCPeliculas.csproj|solutionrelative:mvcpeliculas\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B03FA56-C277-44FC-A6BB-AC66086DD9E1}|MVCPeliculas\\MVCPeliculas.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 1\\mvcpeliculas\\mvcpeliculas\\mvcpeliculas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B03FA56-C277-44FC-A6BB-AC66086DD9E1}|MVCPeliculas\\MVCPeliculas.csproj|solutionrelative:mvcpeliculas\\mvcpeliculas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B03FA56-C277-44FC-A6BB-AC66086DD9E1}|MVCPeliculas\\MVCPeliculas.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 1\\mvcpeliculas\\mvcpeliculas\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B03FA56-C277-44FC-A6BB-AC66086DD9E1}|MVCPeliculas\\MVCPeliculas.csproj|solutionrelative:mvcpeliculas\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B03FA56-C277-44FC-A6BB-AC66086DD9E1}|MVCPeliculas\\MVCPeliculas.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 1\\mvcpeliculas\\mvcpeliculas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B03FA56-C277-44FC-A6BB-AC66086DD9E1}|MVCPeliculas\\MVCPeliculas.csproj|solutionrelative:mvcpeliculas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B03FA56-C277-44FC-A6BB-AC66086DD9E1}|MVCPeliculas\\MVCPeliculas.csproj|d:\\universidad\\ciclos\\ciclo 02-2024\\dse\\lab\\lab 1\\mvcpeliculas\\mvcpeliculas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B03FA56-C277-44FC-A6BB-AC66086DD9E1}|MVCPeliculas\\MVCPeliculas.csproj|solutionrelative:mvcpeliculas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 1\\MVCPeliculas\\MVCPeliculas\\Views\\Peliculas\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCPeliculas\\Views\\Peliculas\\Create.cshtml",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 1\\MVCPeliculas\\MVCPeliculas\\Views\\Peliculas\\Create.cshtml",
+              "RelativeToolTip": "MVCPeliculas\\Views\\Peliculas\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T04:41:01.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 1\\MVCPeliculas\\MVCPeliculas\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCPeliculas\\appsettings.json",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 1\\MVCPeliculas\\MVCPeliculas\\appsettings.json",
+              "RelativeToolTip": "MVCPeliculas\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T04:33:56.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PeliculasController.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 1\\MVCPeliculas\\MVCPeliculas\\Controllers\\PeliculasController.cs",
+              "RelativeDocumentMoniker": "MVCPeliculas\\Controllers\\PeliculasController.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 1\\MVCPeliculas\\MVCPeliculas\\Controllers\\PeliculasController.cs",
+              "RelativeToolTip": "MVCPeliculas\\Controllers\\PeliculasController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:11:54.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MVCPeliculas",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 1\\MVCPeliculas\\MVCPeliculas\\MVCPeliculas.csproj",
+              "RelativeDocumentMoniker": "MVCPeliculas\\MVCPeliculas.csproj",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 1\\MVCPeliculas\\MVCPeliculas\\MVCPeliculas.csproj",
+              "RelativeToolTip": "MVCPeliculas\\MVCPeliculas.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-22T04:06:55.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 1\\MVCPeliculas\\MVCPeliculas\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MVCPeliculas\\appsettings.Development.json",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 1\\MVCPeliculas\\MVCPeliculas\\appsettings.Development.json",
+              "RelativeToolTip": "MVCPeliculas\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T04:06:29.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 1\\MVCPeliculas\\MVCPeliculas\\Views\\Peliculas\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCPeliculas\\Views\\Peliculas\\Index.cshtml",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 1\\MVCPeliculas\\MVCPeliculas\\Views\\Peliculas\\Index.cshtml",
+              "RelativeToolTip": "MVCPeliculas\\Views\\Peliculas\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T04:11:44.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 1\\MVCPeliculas\\MVCPeliculas\\Program.cs",
+              "RelativeDocumentMoniker": "MVCPeliculas\\Program.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 1\\MVCPeliculas\\MVCPeliculas\\Program.cs",
+              "RelativeToolTip": "MVCPeliculas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:05:13.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 1\\MVCPeliculas\\MVCPeliculas\\Startup.cs",
+              "RelativeDocumentMoniker": "MVCPeliculas\\Startup.cs",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 1\\MVCPeliculas\\MVCPeliculas\\Startup.cs",
+              "RelativeToolTip": "MVCPeliculas\\Startup.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:06:17.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 1\\MVCPeliculas\\MVCPeliculas\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MVCPeliculas\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\UNIVERSIDAD\\Ciclos\\Ciclo 02-2024\\DSE\\Lab\\Lab 1\\MVCPeliculas\\MVCPeliculas\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MVCPeliculas\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T04:08:19.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.Entities\bin\Debug\net5.0\Desafio.Entities.deps.json
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.Entities\bin\Debug\net5.0\Desafio.Entities.dll
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.Entities\bin\Debug\net5.0\ref\Desafio.Entities.dll
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.Entities\bin\Debug\net5.0\Desafio.Entities.pdb
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.Entities\obj\Debug\net5.0\Desafio.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.Entities\obj\Debug\net5.0\Desafio.Entities.AssemblyInfoInputs.cache
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.Entities\obj\Debug\net5.0\Desafio.Entities.AssemblyInfo.cs
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.Entities\obj\Debug\net5.0\Desafio.Entities.csproj.CoreCompileInputs.cache
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.Entities\obj\Debug\net5.0\Desafio.Entities.dll
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.Entities\obj\Debug\net5.0\ref\Desafio.Entities.dll
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.Entities\obj\Debug\net5.0\Desafio.Entities.pdb
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.Entities\obj\Debug\net5.0\Desafio.Entities.csproj.AssemblyReference.cache

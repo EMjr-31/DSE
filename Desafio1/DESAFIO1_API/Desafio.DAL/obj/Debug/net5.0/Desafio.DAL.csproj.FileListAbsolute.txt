@@ -1,0 +1,17 @@
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.DAL\obj\Debug\net5.0\Desafio.DAL.csproj.AssemblyReference.cache
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.DAL\obj\Debug\net5.0\Desafio.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.DAL\obj\Debug\net5.0\Desafio.DAL.AssemblyInfoInputs.cache
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.DAL\obj\Debug\net5.0\Desafio.DAL.AssemblyInfo.cs
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.DAL\obj\Debug\net5.0\Desafio.DAL.csproj.CoreCompileInputs.cache
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.DAL\bin\Debug\net5.0\Desafio.DAL.deps.json
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.DAL\bin\Debug\net5.0\Desafio.DAL.dll
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.DAL\bin\Debug\net5.0\ref\Desafio.DAL.dll
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.DAL\bin\Debug\net5.0\Desafio.DAL.pdb
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.DAL\bin\Debug\net5.0\Desafio.Common.dll
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.DAL\bin\Debug\net5.0\Desafio.Entities.dll
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.DAL\bin\Debug\net5.0\Desafio.Common.pdb
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.DAL\bin\Debug\net5.0\Desafio.Entities.pdb
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.DAL\obj\Debug\net5.0\Desafio.DAL.csproj.CopyComplete
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.DAL\obj\Debug\net5.0\Desafio.DAL.dll
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.DAL\obj\Debug\net5.0\ref\Desafio.DAL.dll
+C:\Users\adona\source\repos\DESAFIO1_API\Desafio.DAL\obj\Debug\net5.0\Desafio.DAL.pdb

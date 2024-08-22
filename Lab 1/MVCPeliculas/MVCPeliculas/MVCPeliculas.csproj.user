@@ -14,5 +14,6 @@
     <WebStackScaffolding_DbContextTypeFullName>MVCPeliculas.Models.PeliculasDBContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>D:\UNIVERSIDAD\Ciclos\Ciclo 02-2024\DSE\Lab\Lab 1\MVCPeliculas\MVCPeliculas\Properties\PublishProfiles\MVCPeliculas20240821215755 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

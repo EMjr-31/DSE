@@ -35,12 +35,7 @@ namespace MVCPeliculas.Controllers
             }
             return View(await peliculas.ToListAsync());
         }
-        [HttpGet]
-        public string Index(String textoABuscar, bool notUsed)
-        {
-            return "From [HttpPost]Index: filtro on " + textoABuscar;
-        }
-
+  
 
         // GET: Peliculas/Details/5
         public async Task<IActionResult> Details(int? id)

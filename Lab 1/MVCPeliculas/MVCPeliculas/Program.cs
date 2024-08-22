@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace MVCPeliculas
 {
-    public class Program
+    public class z
     {
         public static void Main(string[] args)
         {
